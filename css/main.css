@@ -1,0 +1,12 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#container h1{
+    font-size: 5rem;
+}
+#container h2{
+    font-size: 3rem;
+}
+#container h3{
+    font-size: 2rem;
+}
